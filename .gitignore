@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Python cache
+__pycache__/
+
+# Demo images
+demo/
+
+# User config
+.idea/workspace.xml
+.idea/dictionaries/

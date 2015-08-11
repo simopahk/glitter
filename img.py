@@ -1,0 +1,1 @@
+# Moodul, kus hoitakse avatud pildiga seonduvat
